@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo-C37-Fri</string>
+    <string name="title_tasks_list">Tasks List</string>
+    <string name="title_settings">Title Settings</string>
+    <string name="task_inserted_message">Task Inserted Successfully</string>
+    <string name="ok">Ok</string>
+</resources>
